@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Doodleink</string>
+
+
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_wallpaper">Set Wallpaper</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_save">Save</string>
+    <string name="action_changebckg">Change Background</string>
+
+    <string name="sure_delete">Are you sure you want to delete it?</string>
+    <string name="sure_delete_title">Delete Doodle</string>
+
+    <string name="change_bckg">You will lost the current doodle</string>
+    <string name="change_bckg_title">Change background color</string>
+
+    <string name="pick_bckg">Background color</string>
+    <string name="pick_line">Line color</string>
+
+
+    <string name="wallpaper_ok">New wallpaper set</string>
+    <string name="wallpaper_fail">Something went wrong</string>
+    <string name="save_image_ok">Image saved</string>
+
+</resources>
